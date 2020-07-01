@@ -1,4 +1,5 @@
 # HW8-Template-Engine-Employee-Summary
+[Link of video showing app's functionality](https://drive.google.com/file/d/10vN-L1tKkg1kKKFRdgSGBwJgZNBRQT0D/view)
 
 # Unit 10 OOP Homework: Template Engine - Employee Summary
 
