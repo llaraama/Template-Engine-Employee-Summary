@@ -1,5 +1,6 @@
 # Template Engine - Employee Summary
 
+### Functionalit Video:
 [Link of video showing app's functionality](https://drive.google.com/file/d/10vN-L1tKkg1kKKFRdgSGBwJgZNBRQT0D/view)
 
 One of the most important aspects of programming is writing code that is readable, reliable, and maintainable. Oftentimes, *how* we design our code is just as important as the code itself. The challenge was to build a Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person. Since testing is a key piece in making code maintainable, I also ensured that all unit tests passed.
